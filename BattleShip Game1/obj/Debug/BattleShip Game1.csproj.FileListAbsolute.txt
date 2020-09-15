@@ -1,0 +1,26 @@
+C:\Users\hao31\source\repos\BattleShip Game1\BattleShip Game1\obj\Debug\BattleShip Game1.csprojAssemblyReference.cache
+C:\Users\hao31\source\repos\BattleShip Game1\BattleShip Game1\obj\Debug\BattleShip_Test_3.MainGame.resources
+C:\Users\hao31\source\repos\BattleShip Game1\BattleShip Game1\obj\Debug\BattleShip_Test_3.MainMenuForm.resources
+C:\Users\hao31\source\repos\BattleShip Game1\BattleShip Game1\obj\Debug\BattleShip_Test_3.PvsP_Game.resources
+C:\Users\hao31\source\repos\BattleShip Game1\BattleShip Game1\obj\Debug\BattleShip_Test_3.ShipDeploy.resources
+C:\Users\hao31\source\repos\BattleShip Game1\BattleShip Game1\obj\Debug\BattleShip_Test_3.Properties.Resources.resources
+C:\Users\hao31\source\repos\BattleShip Game1\BattleShip Game1\obj\Debug\BattleShip Game1.csproj.GenerateResource.cache
+C:\Users\hao31\source\repos\BattleShip Game1\BattleShip Game1\obj\Debug\BattleShip Game1.csproj.CoreCompileInputs.cache
+C:\Users\hao31\source\repos\BattleShip Game1\BattleShip Game1\bin\Debug\BattleShip Test 3.exe.config
+C:\Users\hao31\source\repos\BattleShip Game1\BattleShip Game1\bin\Debug\BattleShip Test 3.exe
+C:\Users\hao31\source\repos\BattleShip Game1\BattleShip Game1\bin\Debug\BattleShip Test 3.pdb
+C:\Users\hao31\source\repos\BattleShip Game1\BattleShip Game1\obj\Debug\BattleShip Test 3.exe
+C:\Users\hao31\source\repos\BattleShip Game1\BattleShip Game1\obj\Debug\BattleShip Test 3.pdb
+C:\Users\hao31\source\repos\BattleShip Game\BattleShip Game1\bin\Debug\BattleShip Test 3.exe.config
+C:\Users\hao31\source\repos\BattleShip Game\BattleShip Game1\bin\Debug\BattleShip Test 3.exe
+C:\Users\hao31\source\repos\BattleShip Game\BattleShip Game1\bin\Debug\BattleShip Test 3.pdb
+C:\Users\hao31\source\repos\BattleShip Game\BattleShip Game1\obj\Debug\BattleShip Game1.csprojAssemblyReference.cache
+C:\Users\hao31\source\repos\BattleShip Game\BattleShip Game1\obj\Debug\BattleShip_Test_3.MainGame.resources
+C:\Users\hao31\source\repos\BattleShip Game\BattleShip Game1\obj\Debug\BattleShip_Test_3.MainMenuForm.resources
+C:\Users\hao31\source\repos\BattleShip Game\BattleShip Game1\obj\Debug\BattleShip_Test_3.PvsP_Game.resources
+C:\Users\hao31\source\repos\BattleShip Game\BattleShip Game1\obj\Debug\BattleShip_Test_3.ShipDeploy.resources
+C:\Users\hao31\source\repos\BattleShip Game\BattleShip Game1\obj\Debug\BattleShip_Test_3.Properties.Resources.resources
+C:\Users\hao31\source\repos\BattleShip Game\BattleShip Game1\obj\Debug\BattleShip Game1.csproj.GenerateResource.cache
+C:\Users\hao31\source\repos\BattleShip Game\BattleShip Game1\obj\Debug\BattleShip Game1.csproj.CoreCompileInputs.cache
+C:\Users\hao31\source\repos\BattleShip Game\BattleShip Game1\obj\Debug\BattleShip Test 3.exe
+C:\Users\hao31\source\repos\BattleShip Game\BattleShip Game1\obj\Debug\BattleShip Test 3.pdb
