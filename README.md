@@ -1,1 +1,1 @@
-# thihk
+# BattleShip Game
